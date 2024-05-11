@@ -1,0 +1,28 @@
+:root {
+    --background: #fff;
+    --primary: rgb(231, 72, 44);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+}
+
+body {
+    min-height: 55000;
+
+}
+
+.mentor .lk {
+    display: flex;
+    position: relative;
+    height: 350px;
+    width: 47px;
+    background-color: blue;
+    background-image: url('bahan_web/mentor\ lk.png');
+    background-size: cover;
+}
